@@ -4,7 +4,7 @@ This script is designed to clean up MP3 filenames by removing unwanted patterns 
 
 ## Features
 
-- Removes unwanted patterns from MP3 filenames (e.g., " - YouTube", "Official Video", etc.).
+- Removes unwanted patterns from Audio filenames (e.g., " - YouTube", "Official Video", etc.).https://github.com/zarkyzaric/MP3-Filename-Cleaner-and-Metadata-Updater/blob/main/README.md
 - Cleans up extra spaces, trailing hyphens, and other common "trash" elements in filenames.
 - Removes everything after the second hyphen in filenames (e.g., "Artist - Song - Extra Info.mp3" becomes "Artist - Song.mp3").
 - Ensures that filenames always retain the `.mp3` extension.
